@@ -4,50 +4,30 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="30485239399730"
-    token="447531834181555589"
-    verifier="CLASS_ADDED" >
+    timestamp="50286556634889"
+    token="447531834181555589" >
 
     <task
         name="javac"
-        duration="2174" />
+        duration="1018" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="131" />
+        duration="256" />
     <task
         name="verifier"
-        duration="28" />
+        duration="10" />
 
     <artifact
-        location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
+        location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="30138920093348" >
+    <build timestamp="50286556634889" >
         <artifact
             location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="30485239399730"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity android:name=".DoThings"></activity>
+        <activity android:name=".DoThings" />
+        <activity android:name=".Scanactivty"></activity>
     </application>
 
 </manifest>

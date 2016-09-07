@@ -24,6 +24,7 @@
         </activity>
         <activity android:name="com.example.aakash.smartrefer.MainActivity" />
         <activity android:name="com.example.aakash.smartrefer.DoThings" />
+        <activity android:name="com.example.aakash.smartrefer.Scanactivty" />
     </application>
 
 </manifest>

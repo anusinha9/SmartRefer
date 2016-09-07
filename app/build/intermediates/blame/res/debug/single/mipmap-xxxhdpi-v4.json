@@ -2,5 +2,9 @@
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/smartgi.png",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/mipmap-xxxhdpi/smartgi.png"
     }
 ]
