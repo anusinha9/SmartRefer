@@ -4,24 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.aakash.smartrefer.SplashScreen">
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@mipmap/smartgi"
-        android:background="@android:color/holo_green_dark" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Smart Refrigerator"
-        android:id="@+id/textView3"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:textColor="@color/secondary_text_default_material_light"
-        android:textSize="50dp" />
-
+        android:id="@+id/imageView"
+        android:background="@drawable/fri"
+        android:layout_centerVertical="true" />
 </RelativeLayout>

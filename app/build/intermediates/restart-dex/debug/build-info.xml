@@ -4,25 +4,21 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="50286556634889"
+    timestamp="6464088281609"
     token="447531834181555589" >
 
     <task
         name="javac"
-        duration="1018" />
+        duration="1607" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="256" />
+        duration="55" />
     <task
         name="verifier"
-        duration="10" />
-
-    <artifact
-        location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        duration="11" />
 
     <build timestamp="50286556634889" >
         <artifact

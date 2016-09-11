@@ -12,6 +12,10 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/fri.jpg",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/drawable/fri.jpg"
+    },
+    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
     },
