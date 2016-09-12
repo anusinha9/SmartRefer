@@ -96,6 +96,10 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/new1.jpg",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/drawable/new1.jpg"
+    },
+    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
     },

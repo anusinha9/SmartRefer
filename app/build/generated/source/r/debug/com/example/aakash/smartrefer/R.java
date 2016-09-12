@@ -1782,8 +1782,9 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f02004e;
         public static final int abc_vector_test=0x7f02004f;
         public static final int fri=0x7f020050;
-        public static final int notification_template_icon_bg=0x7f020052;
-        public static final int pp1=0x7f020051;
+        public static final int new1=0x7f020051;
+        public static final int notification_template_icon_bg=0x7f020053;
+        public static final int pp1=0x7f020052;
     }
     public static final class id {
         public static final int action0=0x7f0b0063;
@@ -1807,11 +1808,11 @@ containing a value of this type.
         public static final int always=0x7f0b001d;
         public static final int beginning=0x7f0b001a;
         public static final int bottom=0x7f0b0022;
-        public static final int button=0x7f0b0058;
-        public static final int button2=0x7f0b0059;
-        public static final int button3=0x7f0b005a;
-        public static final int button4=0x7f0b005d;
-        public static final int button5=0x7f0b005b;
+        public static final int button=0x7f0b0057;
+        public static final int button2=0x7f0b0058;
+        public static final int button3=0x7f0b0059;
+        public static final int button4=0x7f0b005c;
+        public static final int button5=0x7f0b005a;
         public static final int buttonPanel=0x7f0b002e;
         public static final int cancel_action=0x7f0b0064;
         public static final int checkbox=0x7f0b003c;
@@ -1820,12 +1821,12 @@ containing a value of this type.
         public static final int contentPanel=0x7f0b0034;
         public static final int custom=0x7f0b003a;
         public static final int customPanel=0x7f0b0039;
-        public static final int da=0x7f0b005c;
+        public static final int da=0x7f0b005b;
         public static final int decor_content_parent=0x7f0b0043;
         public static final int default_activity_button=0x7f0b002a;
         public static final int disableHome=0x7f0b000c;
-        public static final int editText=0x7f0b005e;
-        public static final int editText2=0x7f0b0061;
+        public static final int editText=0x7f0b005d;
+        public static final int editText2=0x7f0b0060;
         public static final int edit_query=0x7f0b0047;
         public static final int end=0x7f0b001b;
         public static final int end_padder=0x7f0b006f;
@@ -1836,7 +1837,7 @@ containing a value of this type.
         public static final int icon=0x7f0b002c;
         public static final int ifRoom=0x7f0b001f;
         public static final int image=0x7f0b0029;
-        public static final int imageView=0x7f0b0062;
+        public static final int imageView=0x7f0b0061;
         public static final int info=0x7f0b006e;
         public static final int line1=0x7f0b0068;
         public static final int line3=0x7f0b006c;
@@ -1886,9 +1887,9 @@ containing a value of this type.
         public static final int text=0x7f0b006d;
         public static final int text2=0x7f0b006b;
         public static final int textSpacerNoButtons=0x7f0b0037;
-        public static final int textView2=0x7f0b005f;
-        public static final int textView4=0x7f0b0057;
-        public static final int textView5=0x7f0b0060;
+        public static final int textView=0x7f0b0062;
+        public static final int textView2=0x7f0b005e;
+        public static final int textView5=0x7f0b005f;
         public static final int time=0x7f0b0069;
         public static final int title=0x7f0b002d;
         public static final int title_template=0x7f0b0032;
