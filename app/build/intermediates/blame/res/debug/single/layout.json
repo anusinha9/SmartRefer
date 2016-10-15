@@ -16,8 +16,20 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
@@ -30,14 +42,6 @@
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -60,24 +64,12 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_cancel_action.xml"
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -88,8 +80,20 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/singlerow.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/singlerow.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/content_dashboard.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/content_dashboard.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_ngo.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/activity_ngo.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -112,6 +116,82 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/content_board1.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/content_board1.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_canactivty.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/activity_canactivty.xml"
     },
@@ -124,10 +204,6 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_item_material.xml"
     },
@@ -136,20 +212,12 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_do_things.xml",
@@ -160,8 +228,16 @@
         "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_dashboard.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_board1.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/layout/activity_board1.xml"
+    },
+    {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",

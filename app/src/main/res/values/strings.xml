@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">SmartRefer</string>
+    <string name="app_name">Smart Refridgerator</string>
 
     <string name="title_activity_scanacitivity">scanacitivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="scan">Scan</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_board1">board1</string>
 </resources>

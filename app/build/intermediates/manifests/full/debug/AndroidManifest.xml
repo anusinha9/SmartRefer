@@ -8,6 +8,9 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="24" />
 
+    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -24,6 +27,13 @@
         <activity android:name="com.example.aakash.smartrefer.MainActivity" />
         <activity android:name="com.example.aakash.smartrefer.DoThings" />
         <activity android:name="com.example.aakash.smartrefer.Scanactivty" />
+        <activity
+            android:name="com.example.aakash.smartrefer.Dashboard"
+            android:label="@string/title_activity_dashboard" />
+        <activity
+            android:name="com.example.aakash.smartrefer.board1"
+            android:label="@string/title_activity_board1" />
+        <activity android:name="com.example.aakash.smartrefer.ngo" />
     </application>
 
 </manifest>

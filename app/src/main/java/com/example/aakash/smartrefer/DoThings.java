@@ -19,5 +19,19 @@ public class DoThings extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Button y= (Button) findViewById(R.id.button6);
+        y.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent=new Intent(getApplicationContext(),Dashboard.class);
+                startActivity(intent);
+            }
+        });
+        Button z= (Button) findViewById(R.id.button7);
+        z.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent intent=new Intent(getApplicationContext(),ngo.class);
+                startActivity(intent);
+            }
+        });
     }
 }
