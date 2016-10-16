@@ -28,7 +28,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="RECIEPIES"
+        android:text="RECIPES"
         android:id="@+id/button2"
         android:background="#ccec75"
         android:layout_below="@+id/button"

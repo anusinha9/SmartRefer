@@ -3,28 +3,32 @@
     abi="armeabi-v7a,armeabi"
     api-level="23"
     density="xxhdpi"
-    format="7"
-    timestamp="7092534495851"
-    token="447531834181555589" >
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="9476582312910"
+    token="447531834181555589"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="452" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="236" />
+        duration="0" />
     <task
         name="verifier"
-        duration="16" />
+        duration="0" />
 
     <artifact
         location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="7092534495851" >
+    <build
+        timestamp="9476582312910"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
