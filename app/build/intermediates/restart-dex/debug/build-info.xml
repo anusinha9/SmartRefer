@@ -5,22 +5,22 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="9476582312910"
+    timestamp="1136813173612"
     token="447531834181555589"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2669" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="259" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
         location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"

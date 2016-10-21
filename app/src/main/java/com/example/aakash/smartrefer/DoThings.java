@@ -50,5 +50,20 @@ public class DoThings extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Button zxxx= (Button) findViewById(R.id.button8);
+        zxxx.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/results?search_query=healthy+recipes+for+kids")));
+            }
+        });
+        Button zxxxx= (Button) findViewById(R.id.button2);
+        zxxxx.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                String url = "http://myfridgefood.com/";
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse(url));
+                startActivity(i);
+            }
+        });
     }
 }
