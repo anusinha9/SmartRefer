@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_7cd86f228ce51df579dc8bd6dd9337b580d9a9fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_3b659940075733f3062990cbe5278350f6644419.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,6 +39,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c45b401671a7acb344935cc0eb2da80f702d318c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_cf625861a9199b93da66fb80b237e444dc08e651.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/aakash/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
         jumboMode="false"
         optimize="true"
@@ -30,12 +66,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_ef5b9194b60d41da46562d125ef4d8f70fdf1daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
         <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_7a68f6eba33f3a230d2fbf035450b437f091e3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_baa45ee1a4b679acdb224bbe6b4e284243ac72a9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,6 +129,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_00b764050bc40586bcfe818a352b99c16b8e1d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,69 +162,6 @@
         revision="24.0.2"
         sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
         <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e4fe9852880caf111b4096d2e4dc63eda443405c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_7cd86f228ce51df579dc8bd6dd9337b580d9a9fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_3b659940075733f3062990cbe5278350f6644419.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c45b401671a7acb344935cc0eb2da80f702d318c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_cf625861a9199b93da66fb80b237e444dc08e651.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_ef5b9194b60d41da46562d125ef4d8f70fdf1daa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_baa45ee1a4b679acdb224bbe6b4e284243ac72a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/aakash/Downloads/SmartRefer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/home/aakash/Downloads/SmartRefer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_00b764050bc40586bcfe818a352b99c16b8e1d40.jar" />
     </item>
 
 </items>

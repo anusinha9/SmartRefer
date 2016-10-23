@@ -4,34 +4,41 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    plugin-version="2.2.1"
-    timestamp="1136813173612"
+    plugin-version="2.2.2"
+    timestamp="5554391880977"
     token="447531834181555589"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2669" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="259" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="9476582312910"
+        timestamp="5101609292679"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/aakash/Downloads/SmartRefer/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="5554391880977"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/aakash/Downloads/SmartRefer/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

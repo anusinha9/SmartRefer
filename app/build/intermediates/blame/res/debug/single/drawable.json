@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/abcc.jpg",
+        "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/drawable/abcc.jpg"
+    },
+    {
         "merged": "/home/aakash/Downloads/SmartRefer/app/build/intermediates/res/merged/debug/drawable/pp1.jpg",
         "source": "/home/aakash/Downloads/SmartRefer/app/src/main/res/drawable/pp1.jpg"
     },

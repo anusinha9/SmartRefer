@@ -10,8 +10,12 @@
 
     <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
     <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
-    <uses-permission android:name="ANDROID.PERMISSION.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
 
     <application
         android:allowBackup="true"
@@ -38,6 +42,7 @@
         <activity android:name="com.example.aakash.smartrefer.ngo" />
         <activity android:name="com.example.aakash.smartrefer.addthings" />
         <activity android:name="com.example.aakash.smartrefer.shoppinglist" />
+        <activity android:name="com.example.aakash.smartrefer.nutrients" />
     </application>
 
 </manifest>
