@@ -691,7 +691,7 @@ int id button5 0x7f0c0083
 int id button6 0x7f0c0084
 int id button7 0x7f0c0085
 int id button8 0x7f0c0086
-int id button9 0x7f0c0074
+int id button9 0x7f0c0076
 int id buttonPanel 0x7f0c0047
 int id cancel_action 0x7f0c00a1
 int id center 0x7f0c0023
@@ -762,7 +762,7 @@ int id none 0x7f0c0010
 int id normal 0x7f0c000c
 int id parallax 0x7f0c002c
 int id parentPanel 0x7f0c0049
-int id photo 0x7f0c0076
+int id photo 0x7f0c0074
 int id pin 0x7f0c002d
 int id progress_circular 0x7f0c0006
 int id progress_horizontal 0x7f0c0007

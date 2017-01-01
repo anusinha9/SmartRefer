@@ -2742,7 +2742,7 @@ containing a value of this type.
         public static final int button6=0x7f0c0084;
         public static final int button7=0x7f0c0085;
         public static final int button8=0x7f0c0086;
-        public static final int button9=0x7f0c0074;
+        public static final int button9=0x7f0c0076;
         public static final int buttonPanel=0x7f0c0047;
         public static final int cancel_action=0x7f0c00a1;
         public static final int center=0x7f0c0023;
@@ -2813,7 +2813,7 @@ containing a value of this type.
         public static final int normal=0x7f0c000c;
         public static final int parallax=0x7f0c002c;
         public static final int parentPanel=0x7f0c0049;
-        public static final int photo=0x7f0c0076;
+        public static final int photo=0x7f0c0074;
         public static final int pin=0x7f0c002d;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
