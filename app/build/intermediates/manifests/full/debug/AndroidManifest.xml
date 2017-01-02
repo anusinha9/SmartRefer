@@ -42,7 +42,7 @@
         <activity android:name="com.example.aakash.smartrefer.ngo" />
         <activity android:name="com.example.aakash.smartrefer.addthings" />
         <activity android:name="com.example.aakash.smartrefer.shoppinglist" />
-        <activity android:name="com.example.aakash.smartrefer.nutrients" />
+        <activity android:name="com.example.aakash.smartrefer.CardDemoActivity" />
     </application>
 
 </manifest>

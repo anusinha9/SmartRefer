@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         final Button button = (Button) findViewById(R.id.button4);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent=new Intent(getApplicationContext(),DoThings.class);
+                Intent intent=new Intent(getApplicationContext(),CardDemoActivity.class);
                 startActivity(intent);
             }
         });

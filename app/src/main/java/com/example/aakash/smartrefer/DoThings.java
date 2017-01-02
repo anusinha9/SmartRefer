@@ -78,7 +78,7 @@ public class DoThings extends AppCompatActivity {
         Button zxxxxxx = (Button) findViewById(R.id.button11);
         zxxxxxx.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), nutrients.class);
+                Intent intent = new Intent(getApplicationContext(), CardDemoActivity.class);
                 startActivity(intent);
             }
         });

@@ -108,10 +108,10 @@ activity#com.example.aakash.smartrefer.shoppinglist
 ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:9-50
 	android:name
 		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:38:19-47
-activity#com.example.aakash.smartrefer.nutrients
-ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:9-56
+activity#com.example.aakash.smartrefer.CardDemoActivity
+ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:9-63
 	android:name
-		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:19-44
+		ADDED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml:39:19-51
 uses-sdk
 INJECTED from G:\SmartRefrigerator1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:cardview-v7:24.2.0] G:\SmartRefrigerator1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\AndroidManifest.xml:20:5-43
